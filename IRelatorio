@@ -1,4 +1,6 @@
+package p.projeto;
 public interface IRelatorio {
+
 	public void gerarRelatorio() ;
 		
 	

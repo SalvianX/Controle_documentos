@@ -1,3 +1,4 @@
+package p.projeto;
 public abstract  class Carta implements ICarta{
 	public void gerarCarta(String texto, String destinatario) {
 		this.gerarSaudacao(destinatario);

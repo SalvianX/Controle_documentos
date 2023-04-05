@@ -1,3 +1,4 @@
+package p.projeto;
 public abstract  class Relatorio implements IRelatorio {
 	public void gerarRelatorio() {
 		System.out.println("Gerando Relatório...");

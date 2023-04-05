@@ -1,0 +1,22 @@
+package p.projeto;
+
+public class RelatorioComercial extends Relatorio{
+
+     public  void gerarIntrodução(){
+    	 System.out.println("Público alvo, estimativa de custo e estimativa de receita");
+	
+		
+	}
+	public  void gerarCorpo() {
+		 System.out.println("Plano de Negócio");
+		
+	}
+	public  void gerarConclusao() {
+		System.out.println("Considerações finais e tempo de retorno do investimento");
+		
+	}
+
+
+	
+
+}

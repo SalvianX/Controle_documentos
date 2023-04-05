@@ -3,8 +3,9 @@ public abstract  class Carta implements ICarta{
 		this.gerarSaudacao(destinatario);
 		System.out.println(texto);
 	}
-	protected  abstract void gerarSaudacao(destinatario) {
+	protected  abstract void gerarSaudacao(String destinatario); {
 		
 	}
+}
 		
 	

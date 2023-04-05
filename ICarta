@@ -1,3 +1,4 @@
+package p.projeto;
 public interface ICarta {
 	public void gerarCarta(String texto, String destinatario);
 		

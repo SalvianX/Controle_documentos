@@ -1,0 +1,5 @@
+public interface IRelatorio {
+	public void gerarRelatorio() ;
+		
+	
+}

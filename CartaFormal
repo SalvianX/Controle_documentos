@@ -1,0 +1,9 @@
+package p.projeto;
+
+public abstract class CartaFormal extends Carta{
+	public void gerarSaudacao() {
+		System.out.println("Prezado, 'Destinatario'!");
+	}
+
+}
+b

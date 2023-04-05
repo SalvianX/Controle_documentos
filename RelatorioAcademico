@@ -1,3 +1,5 @@
+package p.projeto;
+
 public class RelatorioAcedemico extends Relatorio{
 
      public  void gerarIntrodução(){
@@ -6,11 +8,11 @@ public class RelatorioAcedemico extends Relatorio{
 		
 	}
 	public  void gerarCorpo() {
-		 System.out.println("Acrescentar corpo do Relatório...");
+		 System.out.println("Trabalhos relacionados,Desenvolvimento do trabalho, avaliação sistêmica");
 		
 	}
 	public  void gerarConclusao() {
-		System.out.println("Concluimos que ...");
+		System.out.println("Considerações finais e trabalhos futuros");
 		
 	}
 

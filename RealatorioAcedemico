@@ -1,0 +1,20 @@
+public class RelatorioAcedemico extends Relatorio{
+
+     public  void gerarIntrodução(){
+    	 System.out.println("De acordo com as normas da instituição dese-se fazer...");
+	
+		
+	}
+	public  void gerarCorpo() {
+		 System.out.println("Acrescentar corpo do Relatório...");
+		
+	}
+	public  void gerarConclusao() {
+		System.out.println("Concluimos que ...");
+		
+	}
+
+
+	
+
+}

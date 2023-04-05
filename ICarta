@@ -1,0 +1,4 @@
+public interface ICarta {
+	public void gerarCarta(String texto, String destinatario);
+		
+	}
